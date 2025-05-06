@@ -1,2 +1,8 @@
 # Android-Generic-Project
-Home: https://android-generic.github.io Android flavors built for Desktop and x86.
+Android flavors built for Desktop and x86.
+
+# Home:
+https://android-generic.github.io
+
+# Doc:
+https://android-generic-project.gitbook.io/documentation
