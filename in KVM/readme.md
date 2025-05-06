@@ -6,3 +6,4 @@ sch:
 
 # Guide:
 - https://forum.level1techs.com/t/blissos-15-8-6-foss-on-qemu-kvm/201058
+- https://guanzhang.medium.com/running-android-games-on-windows-10-11-4eea9be9a06b
