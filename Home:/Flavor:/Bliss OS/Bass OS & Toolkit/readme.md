@@ -5,7 +5,7 @@ https://blissos.org/licensing.html
 
 https://bliss-bass.blisscolabs.dev/
 
-https://blisscolabs.dev/
+Company: https://navotpala.tech/ || https://blisscolabs.dev/
 
 quote:
 >Looking to use Bliss OS in a product?

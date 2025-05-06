@@ -1,2 +1,0 @@
-# Home:
-https://blissos.org
