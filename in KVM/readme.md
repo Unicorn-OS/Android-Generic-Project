@@ -4,5 +4,5 @@ sch:
 # Doc:
 - https://docs.blissos.org/installation/install-in-a-virtual-machine/install-in-qemu/
 
-# Discuss
+# Guide:
 - https://forum.level1techs.com/t/blissos-15-8-6-foss-on-qemu-kvm/201058
