@@ -1,4 +1,6 @@
 # Bass OS and Bass Toolkit
+A Commercially supported & customizable Bliss OS Licensed by it's parent company.
+
 https://blissos.org/licensing.html
 
 https://bliss-bass.blisscolabs.dev/
