@@ -18,6 +18,8 @@ nano /mnt/boot/grub/android.cfg
 under first entry: `function add_boot_entry { linux $kd/kernel ... $src $@ }`
 add `video=1920x1080` at end.
 
+type `exit` twice. Then reboot VM.
+
 ## Boot with virgl drivers
 In Grub, Select:  
 "VM Options" -> - "QEMU/KVM - Virgl - SW-FFMPEG"
