@@ -24,7 +24,9 @@ type `exit` twice. Then reboot VM.
 on next bootup — In Grub, Select:  
 "VM Options" -> - "QEMU/KVM - Virgl - SW-FFMPEG"
 
-
 prime.:
 - https://android.stackexchange.com/questions/249223/how-can-i-set-my-android-x86-uefi-installation-resolution-to-19201080-in-my-vm
 - https://www.reddit.com/r/BlissOS/comments/s8nlw5/screen_resolution_in_a_vm/
+
+## Android Settings: Display size and text
+change: "Display size - Make everything bigger or smaller"
