@@ -13,6 +13,6 @@ video=1980*1080
 ```
 
 ## || one time Boot:
->Hilight grub -> `virgil/Hw acceleration`, and press e and to edit grub. Add at end of `linux`.
+>Hilight grub -> `virgil/Hw acceleration`, and press e and to edit grub. Add at end of `linux`. and press "F10"
 
 https://www.reddit.com/r/BlissOS/comments/s8nlw5/screen_resolution_in_a_vm/
