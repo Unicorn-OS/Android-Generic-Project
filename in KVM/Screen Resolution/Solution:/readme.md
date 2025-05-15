@@ -9,8 +9,13 @@ Add at end of `linux ... $@`:
 video=1980x1080
 ```
 
-## Edit grub file to permanently set:
-in '/mnt/boot/grub/android.cfg'
+## Edit grub file to permanently
+Grub, select: Debugging -> debugging
+
+then:
+```
+nano /mnt/boot/grub/android.cfg
+```
 
 ## Boot with virgl drivers
 In Grub, Select:  
