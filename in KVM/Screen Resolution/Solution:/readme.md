@@ -12,10 +12,9 @@ video=1980x1080
 ## Edit grub file to permanently set:
 in '/mnt/boot/grub/android.cfg'
 
-## || one time Boot:
-In Grub, Hilight:
+## Boot with virgl drivers
+In Grub, Select:  
 "VM Options" -> - "QEMU/KVM - Virgl - SW-FFMPEG"
 
-and press e and to edit grub. Add at end of `linux`. and press "Ctrl+x" or "F10"
 
 https://www.reddit.com/r/BlissOS/comments/s8nlw5/screen_resolution_in_a_vm/
