@@ -7,3 +7,6 @@ add:
 ```
 nomodeset video=1980*1080
 ```
+
+# Try:
+https://www.reddit.com/r/BlissOS/comments/s8nlw5/screen_resolution_in_a_vm/
