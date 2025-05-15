@@ -21,7 +21,7 @@ add `video=1920x1080` at end.
 type `exit` twice. Then reboot VM.
 
 ## Boot with virgl drivers
-In Grub, Select:  
+on next bootup — In Grub, Select:  
 "VM Options" -> - "QEMU/KVM - Virgl - SW-FFMPEG"
 
 
