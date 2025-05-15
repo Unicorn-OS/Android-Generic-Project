@@ -1,12 +1,18 @@
 # Solution:
+# Works:
 https://android.stackexchange.com/questions/249223/how-can-i-set-my-android-x86-uefi-installation-resolution-to-19201080-in-my-vm
 
-in '/mnt/boot/grub/android.cfg':
+in Grub for 'virgil/Hw acceleration
+Add at end of `linux`:
 
-add:
+## Edit grub file to permanently set:
+in '/mnt/boot/grub/android.cfg'
+
 ```
-nomodeset video=1980*1080
+video=1980*1080
 ```
 
-# Try:
+## || one time Boot:
+>Hilight grub -> `virgil/Hw acceleration`, and press e and to edit grub. Add at end of `linux`.
+
 https://www.reddit.com/r/BlissOS/comments/s8nlw5/screen_resolution_in_a_vm/
