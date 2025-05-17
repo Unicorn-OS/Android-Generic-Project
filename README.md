@@ -1,4 +1,4 @@
-# Android-Generic-Project
+# Android-Generic.Project
 Android flavors built for Desktop and x86.
 
 # Home:
